@@ -7,7 +7,7 @@ This project contains a Python function to find the 'largest number' in a list u
 
 
 
-### First code "main.py"
+## First code "main.py"
 
 ***Description***
 
@@ -32,23 +32,34 @@ The function works as follows:
 ### Unit Tests
 
 
-**Description**_
+**Description**:
 
 The unit tests verify the correctness of the largest_number function. They cover general cases, single-element lists, and lists with negative numbers.
 
 
-***Implementation***_
+***Implementation***:
 
 The tests are implemented using Python's built-in unittest framework.
 
 
-***Running the Tests***_
+***Running the Tests***:
 
 To run the tests, execute the following command in your terminal:
 python -m unittest <name_of_the_test_file>.py
 Replace <name_of_the_test_file> with the name of your Python file containing the unit tests.
 
 
-***Conclusion***_
+***Conclusion***:
 
 This project demonstrates a simple recursive function to find the largest number in a list and a corresponding set of unit tests to ensure its functionality. The use of recursion and unit testing showcases fundamental programming concepts in Python.
+
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to open an issue or contact me directly at [paula.rgs@hotmail.com].
+
+
+
+## Credits
+This project was created by Paula Rubio.
